@@ -23,6 +23,7 @@ yarn-error.log
 # Visual Studio Code
 .vscode/*
 .idea/*
+.github/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -31,14 +32,17 @@ yarn-error.log
 
 # Miscellaneous
 /.angular/cache
+.firebase
 .sass-cache/
 /connect.lock
 /coverage
 /libpeerconnection.log
 testem.log
+package-lock.json
 /typings
 
 # System files
 .DS_Store
 .firebaserc
 Thumbs.db
+
