@@ -1,0 +1,55 @@
+.grid {
+  display: grid;
+}
+
+.grid-row {
+  grid-auto-flow: column;
+}
+
+.a-itm-c {
+  align-items: center;
+}
+
+.a-itm-s {
+  align-items: start;
+}
+
+.a-itm-b {
+  align-items: baseline;
+}
+
+.a-itm-e {
+  align-items: end;
+}
+
+.a-slf-c {
+  align-self: center;
+}
+
+.a-con-sb {
+  align-content: space-between;
+}
+
+.a-slf-e {
+  align-self: end;
+}
+
+.a-slf-s {
+  align-self: start;
+}
+
+.j-itm-c {
+  justify-items: center;
+}
+
+.j-slf-c {
+  justify-self: center;
+}
+
+.j-slf-e {
+  justify-self: end;
+}
+
+.j-slf-s {
+  justify-self: start;
+}
